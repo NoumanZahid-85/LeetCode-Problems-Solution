@@ -1,28 +1,44 @@
-# LeetCode Problems Solutions for DSA and Algorithm in C++
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-## About
-This is the repository where I keep and manage the LeetCode Questions and their solutions solved by myself.
+# <p align="center">LeetCode Problems Solutions in C++ 🚀</p>
 
-## Contents
-- Data Structures and Algorithms solutions
-- Time and Space complexity analysis
-- Clean and well-documented code
-- Solutions in C++
+## 📚 About
+This repository contains my personal collection of LeetCode problem solutions, focusing on Data Structures and Algorithms implemented in C++. Each solution is carefully documented with detailed explanations and complexity analysis.
 
-## Structure
+## 🎯 Contents
+- **DSA Solutions**: Comprehensive solutions to various LeetCode problems
+- **Complexity Analysis**: Detailed time and space complexity breakdowns
+- **Clean Code**: Well-documented, maintainable C++ implementations
+- **Best Practices**: Following modern C++ coding standards
+
+## 📂 Structure
 Each solution includes:
-- Problem description
-- Approach explanation
-- Time & Space complexity
-- Code implementation
+| Component | Description |
+|:---|:---|
+| Problem Statement | Detailed description of the problem |
+| Approach | Step-by-step explanation of the solution strategy |
+| Complexity | Time & Space complexity analysis |
+| Implementation | Clean, documented C++ code |
 
-## How to Use
-1. Each solution file contains detailed comments
-2. Feel free to suggest improvements or ask questions
+## 🔧 How to Use
+1. Navigate to specific problem solutions
+2. Each file contains:
+   - Problem description as comments
+   - Solution approach explanation
+   - Complexity analysis
+   - Well-documented implementation
+3. Feel free to:
+   - Study the solutions
+   - Suggest improvements
+   - Ask questions
+   - Use the code for learning
 
-## Connect
-- [Linked In](https://www.linkedin.com/in/nouman-zahid/)
-- [GitHub](https://github.com/NoumanZahid-85)
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nouman-zahid/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/NoumanZahid-85)
 
-## License
-MIT License - Feel free to
+## 📝 License
+MIT License - Feel free to use this code for learning and practice.
+
+---
+<p align="center">Happy Coding! 💻</p>
